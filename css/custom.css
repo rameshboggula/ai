@@ -8,7 +8,7 @@ h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
 	}
 
 .feature {
-	background: yellowgreen linear-gradient(to bottom, greenyellow, olivedrab);
+	background: black linear-gradient(to bottom, black, olivedrab);
 	color: black;
 	}
 
