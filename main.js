@@ -1,10 +1,10 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
-var config = {
+  var config = {
     apiKey: "AIzaSyCtzIbx5mJ4LvHlToFJY5umYZArX4ColrM",
     authDomain: "hyd-ai.firebaseapp.com",
     databaseURL: "https://hyd-ai.firebaseio.com",
     projectId: "hyd-ai",
-    storageBucket: "",
+    storageBucket: "hyd-ai.appspot.com",
     messagingSenderId: "994503848224"
 };
 firebase.initializeApp(config);
