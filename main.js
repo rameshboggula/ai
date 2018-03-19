@@ -4,7 +4,7 @@
     authDomain: "contactform-d3756.firebaseapp.com",
     databaseURL: "https://contactform-d3756.firebaseio.com",
     projectId: "contactform-d3756",
-    storageBucket: "",
+    storageBucket: "contactform-d3756.appspot.com",
     messagingSenderId: "807105774717"
 };
 firebase.initializeApp(config);
