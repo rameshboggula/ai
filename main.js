@@ -5,7 +5,7 @@ var config = {
     databaseURL: "https://hyd-ai.firebaseio.com",
     projectId: "hyd-ai",
     storageBucket: "",
-    messagingSenderId: "994503848224
+    messagingSenderId: "994503848224"
 };
 firebase.initializeApp(config);
 
