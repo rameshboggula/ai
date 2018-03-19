@@ -1,11 +1,11 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
   var config = {
-    apiKey: "AIzaSyCtzIbx5mJ4LvHlToFJY5umYZArX4ColrM",
-    authDomain: "hyd-ai.firebaseapp.com",
-    databaseURL: "https://hyd-ai.firebaseio.com",
-    projectId: "hyd-ai",
-    storageBucket: "hyd-ai.appspot.com",
-    messagingSenderId: "994503848224"
+    apiKey: "AIzaSyBpgsx-uliClVLQ6u7KrxYmmS7df1o3_rE",
+    authDomain: "contactform-d3756.firebaseapp.com",
+    databaseURL: "https://contactform-d3756.firebaseio.com",
+    projectId: "contactform-d3756",
+    storageBucket: "",
+    messagingSenderId: "807105774717"
 };
 firebase.initializeApp(config);
 
